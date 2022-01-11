@@ -19,7 +19,8 @@ Incident response procedures are detailed in the published [Amazon AWS Incident 
 ## Related Code Exchange Submission
 
  •Please see the serverless relay module installation information [here] (https://developer.cisco.com/codeexchange/github/repo/CiscoDevNet/tr-05-aws-vpc-logs)
- 
+ •[Code Exchange submission for this project] https://developer.cisco.com/codeexchange/github/repo/CiscoDevNet/sxo_aws_ir
+ •
 
 ## White Paper
 
@@ -27,6 +28,7 @@ Incident response procedures are detailed in the published [Amazon AWS Incident 
 
 [From Complex to Cohesive] (https://www.cisco.com/c/en/us/products/collateral/security/white-paper-c11-744498.html)
 
+[Watch Brian Sak & Brennan Bouchard present at Devnet Create] (https://www.youtube.com/watch?v=jGAC1RSKzMw)
 ## Usage
 
 Show users how to use the code. Be specific.
