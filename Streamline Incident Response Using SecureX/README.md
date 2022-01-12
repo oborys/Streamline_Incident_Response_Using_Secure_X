@@ -21,7 +21,6 @@ Incident response procedures are detailed in the published [Amazon AWS Incident 
  
  •[Code Exchange submission for this project](https://developer.cisco.com/codeexchange/github/repo/CiscoDevNet/sxo_aws_ir)
  
-
 ## White Paper
 
 [AWS IR Whitepaper](https://docs.aws.amazon.com/whitepapers/latest/aws-security-incident-response-guide/aws-security-incident-response-guide.pdf#welcome/)
@@ -29,10 +28,6 @@ Incident response procedures are detailed in the published [Amazon AWS Incident 
 [From Complex to Cohesive](https://www.cisco.com/c/en/us/products/collateral/security/white-paper-c11-744498.html)
 
 [Watch Brian Sak & Brennan Bouchard present at Devnet Create](https://www.youtube.com/watch?v=jGAC1RSKzMw)
-## Usage
-
-Show users how to use the code. Be specific.
-Use appropriate formatting when showing code snippets or command line output.
 
 ### Related Sandbox
 
